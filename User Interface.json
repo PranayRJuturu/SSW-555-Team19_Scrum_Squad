@@ -1,0 +1,19 @@
+{
+    "solarPanels": [
+      {
+        "id": 1,
+        "name": "Solar Panel 1",
+        "powerGenerated": "0 kWh",
+        "batteryLevel": "100%",
+        "status": "Online"
+      },
+      {
+        "id": 2,
+        "name": "Solar Panel 2",
+        "powerGenerated": "0 kWh",
+        "batteryLevel": "100%",
+        "status": "Online"
+      }
+    ]
+  }
+  

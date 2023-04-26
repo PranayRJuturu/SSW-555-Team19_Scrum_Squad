@@ -1,0 +1,51 @@
+{
+    "product": {
+      "name": "Solar Panel",
+      "description": "A high-efficiency solar panel that converts sunlight into electricity.",
+      "features": [
+        {
+          "name": "High efficiency solar cells",
+          "description": "Utilizes advanced solar cell technology for maximum energy conversion."
+        },
+        {
+          "name": "Weather resistant design",
+          "description": "Built to withstand harsh weather conditions and ensure durability."
+        },
+        {
+          "name": "Durable aluminum frame",
+          "description": "Constructed with a sturdy aluminum frame for long-lasting performance."
+        },
+        {
+          "name": "Easy installation",
+          "description": "Designed for hassle-free installation on various surfaces."
+        }
+      ],
+      "images": [
+        {
+          "type": "main",
+          "url": "https://example.com/solar-panel.jpg"
+        },
+        {
+          "type": "front",
+          "url": "https://example.com/solar-panel-front.jpg"
+        },
+        {
+          "type": "back",
+          "url": "https://example.com/solar-panel-back.jpg"
+        }
+      ],
+      "colors": [
+        {
+          "name": "Black",
+          "hex": "#000000"
+        },
+        {
+          "name": "Silver",
+          "hex": "#C0C0C0"
+        }
+      ],
+      "price": 199.99,
+      "availability": "In stock"
+    }
+  }
+  
